@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NNNUSystem</string>
+    <string name="mydestbook">我的桌面</string>
+    <string name="myscore">学籍成绩</string>
+    <string name="CultureManagement">培养管理</string>
+    <string name="ExamRegistration">考试报名</string>
+    <string name="HandsonSession">实践环节</string>
+    <string name="TeachingEvaluation">教学评价</string>
+    <string name="option">option</string>
+    <string name="title_right">title-right</string>
+    <string name="value">value</string>
+    <string name="importing">导入中...</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
