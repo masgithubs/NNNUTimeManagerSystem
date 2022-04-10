@@ -1,11 +1,12 @@
 # NNNUTimeManagerSystem
 
-##Features
-一个南宁师范大学课程表导入的demo
+Features
+========
+    一个南宁师范大学课程表导入的demo
 
-##License
-
-Copyright 2022 Cao Shixu
+License
+=======
+    Copyright 2022 Cao Shixu
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
