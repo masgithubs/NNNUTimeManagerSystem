@@ -10,7 +10,7 @@ How to use
     -Start your Android Studio opening it.
     -With no errors showing, you can get start with us.
     -If some errors on your studio
-you can post it to my emil
+    you can post it to my emil
     -kaydenkc@gmail.com.
 
 License
