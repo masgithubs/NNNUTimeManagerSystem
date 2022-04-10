@@ -5,9 +5,13 @@ Features
     A Demo App of NNNU time schedule.
 How to use
 ==========
-    Download this project and start your Android Studio opening it.
-    With no errors showing, you can get start with us.
-    If some errors on your studio, you can post it to my emil:kaydenkc@gmail.com.
+    -Follow this steps:
+    -Download this project.
+    -Start your Android Studio opening it.
+    -With no errors showing, you can get start with us.
+    -If some errors on your studio
+you can post it to my emil
+    -kaydenkc@gmail.com.
 
 License
 =======
