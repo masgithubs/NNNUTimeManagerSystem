@@ -1,6 +1,9 @@
 # NNNUTimeManagerSystem
-不需要什么高级配置。
-自己无聊，写着玩的。
+
+##Features
+一个南宁师范大学课程表导入的demo
+
+##License
 
 Copyright 2022 Cao Shixu
 
